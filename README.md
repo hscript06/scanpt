@@ -1,0 +1,2 @@
+# scanpt
+script de escaneo

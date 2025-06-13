@@ -52,7 +52,3 @@ scanpt
 #### Uso en Windows
 
 Haz doble clic sobre el icono `scanpt` del escritorio o sobre el archivo `scanpt.exe` para abrir la aplicación.
-
-```
-
-¿Quieres que te escriba también la parte de macOS (por si en un futuro lo haces), o solo Linux y Windows?

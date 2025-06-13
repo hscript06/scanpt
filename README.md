@@ -29,7 +29,7 @@
 #### 1. Clona el repositorio:
 
 ```bash
-sudo git clone https://github.com/tuusuario/scanpt.git
+sudo git clone https://github.com/hscript06/scanpt.git
 cd scanpt
 sudo chmod +x install.sh
 sudo ./install.sh

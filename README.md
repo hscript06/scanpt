@@ -29,9 +29,9 @@
 #### 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/scanpt.git
+sudo git clone https://github.com/tuusuario/scanpt.git
 cd scanpt
-chmod +x install.sh
+sudo chmod +x install.sh
 sudo ./install.sh
 ```
 

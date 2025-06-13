@@ -40,7 +40,7 @@ Después de instalarlo, puedes ejecutarlo con:
 ```bash
 scanpt
 ```
-🖥️ Windows
+### 🖥️ Windows
 
 1. Descarga el archivo `scanpt-installer.exe`.
 2. Ejecuta el instalador (`scanpt-installer.exe`) y sigue los pasos de la interfaz gráfica.

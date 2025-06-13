@@ -30,7 +30,7 @@
 
 ```bash
 sudo git clone https://github.com/hscript06/scanpt.git
-cd scanpt
+cd scanpt/scanpt
 sudo chmod +x install.sh
 sudo ./install.sh
 ```
